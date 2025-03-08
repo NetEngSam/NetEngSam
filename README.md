@@ -43,7 +43,7 @@
 
 ### 📚 Education
 
-- **B.S. in Network Engineering & Security** – Western Governors University
+- **B.S. in Network Engineering & Security** 
 
 ---
 
