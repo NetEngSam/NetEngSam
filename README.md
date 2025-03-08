@@ -1,5 +1,3 @@
-<!-- Replace `NetEngSam` with your chosen GitHub username -->
-
 <h1>Hi, I'm Sam!</h1>
 <h3>Network Engineer | Automation Enthusiast | Security-Focused</h3>
 
@@ -24,9 +22,10 @@
 ### 🛠️ Projects
 
 - **Network Automation with Python & Ansible**  
-  &nbsp;&nbsp;[View Repository][(https://github.com/NetEngSam/Network-Automation-Project)](https://github.com/NetEngSam/Cisco-Ansible-Python-Lab)  
-  *Automating Cisco router and switch configurations using Ansible playbooks, Python scripts, and Cisco Modeling Labs (CML).*
+      &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Network-Automation-Project)
+      *Automating Cisco router configurations using Ansible playbooks, Python scripts, and Cisco Modeling Labs (CML).*
 
+ 
 - **Ethical Hacking Exercises (Hack The Box)**   
   *Currently 40% through the Hack The Box “Penetration Tester” path - continuously honing enumeration, exploitation, and post-exploitation skills.*
 
