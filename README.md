@@ -22,7 +22,7 @@
 ### 🛠️ Projects
 
 - **Network Automation with Python & Ansible**  
-      &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Network-Automation-Project)
+      &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Cisco-Ansible-Python-Lab)
       *Automating Cisco router configurations using Ansible playbooks, Python scripts, and Cisco Modeling Labs (CML).*
 
  
