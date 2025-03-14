@@ -22,12 +22,19 @@
 ### 🛠️ Projects
 
 - **Network Automation with Python & Ansible**  
-      &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Cisco-Ansible-Python-Lab)
-      *Automating Cisco router configurations using Ansible playbooks, Python scripts, and Cisco Modeling Labs (CML).*
 
- 
+  - *Automating Cisco router configurations using Ansible playbooks, Python scripts, and Cisco Modeling Labs (CML).*
+    &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Cisco-Ansible-Python-Lab)
+  
+- **Multi Protocol Network: OSPF, EIGRP, and BGP**
+
+  -  *This project focuses on route redistribution, troubleshooting, and ensuring seamless communication between different routing domains; demonstrating the coexistence of 
+      OSPF, EIGRP, and BGP in a  enterprise network.*
+      &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Multi-Protocol-Network-OSPF-EIGRP-and-BGP)
+
 - **Ethical Hacking Exercises (Hack The Box)**   
-  *Currently 40% through the Hack The Box “Penetration Tester” path - continuously honing enumeration, exploitation, and post-exploitation skills.*
+
+  -  *Currently 40% through the Hack The Box “Penetration Tester” path - continuously honing enumeration, exploitation, and post-exploitation skills.*
 
 ---
 
@@ -36,7 +43,11 @@
 - **Cisco CCNA**   
 - **Cisco DevNet Associate**
 - **Cisco CyberOps Associate** 
-- **CompTIA Security+**, **CompTIA Cloud+**, **LPI Linux Essentials**, **ITIL v4**, **CompTIA A+**
+- **CompTIA Security+**
+-  **CompTIA Cloud+**
+-  **LPI Linux Essentials**
+-  **ITIL v4**
+-  **CompTIA A+**
 
 ---
 
