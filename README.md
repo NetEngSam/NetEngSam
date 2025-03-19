@@ -1,5 +1,5 @@
 <h1>Hi, I'm Sam!</h1>
-<h3>Network Engineer | Automation Enthusiast | Security-Focused</h3>
+<h3>Network Engineer | Automation Enthusiast | Security Focused</h3>
 
 <p>
   <em>
@@ -14,7 +14,7 @@
 
 - **Network Automation** (Python, Ansible) to streamline configurations and deployments  
 - **Security** with Cisco ASA, Firewalls, ACLs, and CyberOps best practices  
-- **Cloud** (Azure) for scalable, secure infrastructure  
+- **Cloud** (Azure,AWS) for scalable, secure infrastructure  
 - Pursuing advanced automation projects to enhance efficiency and reduce downtime
 
 ---
@@ -25,7 +25,12 @@
 
   - *Automating Cisco router configurations using Ansible playbooks, Python scripts, and Cisco Modeling Labs (CML).*
     &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Cisco-Ansible-Python-Lab)
-  
+
+- **Hybrid Cloud Network with AWS**
+
+  - Built a site-to-site VPN from an on-premises Cisco environment (CML) to an AWS VPC, configuring subnets, route tables, and security groups for secure cross cloud connectivity
+ &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Hybrid-Cloud-Network-with-AWS)
+
 - **Multi Protocol Network: OSPF, EIGRP, and BGP**
 
   -  *This project focuses on route redistribution, troubleshooting, and ensuring seamless communication between different routing domains; demonstrating the coexistence of 
