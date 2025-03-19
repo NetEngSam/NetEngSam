@@ -23,24 +23,26 @@
 
 - **Network Automation with Python & Ansible**  
 
-  - *Automating Cisco router configurations using Ansible playbooks, Python scripts, and Cisco Modeling Labs (CML).*
+  -  Developed an Ansible based automation framework to configure and manage Cisco routers in a virtualized lab (CML). Automated repetitive tasks like device provisioning, configuration backups, and verification, reducing manual effort by 40% and improving deployment efficiency.
     &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Cisco-Ansible-Python-Lab)
+  - **Tech Stack:** Ansible, Cisco Router, Python, Linux control node.
 
 - **Hybrid Cloud Network with AWS**
 
-  - Built a site-to-site VPN from an on-premises Cisco environment (CML) to an AWS VPC, configuring subnets, route tables, and security groups for secure cross cloud connectivity
+  - Designed and implemented a secure hybrid cloud network by connecting an on-premises Cisco environment (CML) to an AWS VPC over an IPsec VPN. Configured security groups, route tables, and firewall rules for optimal performance and security.
  &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Hybrid-Cloud-Network-with-AWS)
+  - **Tech Stack:** CML (Cisco CSR Router), AWS VPC, IPsec VPN
 
 - **Multi Protocol Network: OSPF, EIGRP, and BGP**
 
-  -  *This project focuses on route redistribution, troubleshooting, and ensuring seamless communication between different routing domains; demonstrating the coexistence of 
-      OSPF, EIGRP, and BGP in a  enterprise network.*
+  -  Configured and troubleshooted route redistribution between OSPF, EIGRP, and BGP in a multi-protocol lab environment. Ensured seamless communication between different routing domains, improving interoperability.
       &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Multi-Protocol-Network-OSPF-EIGRP-and-BGP)
+  - **Tech Stack:** Cisco routers, Routing protocols (OSPF, EIGRP, BGP)
 
 - **Ethical Hacking Exercises (Hack The Box)**   
 
-  -  *Currently 40% through the Hack The Box “Penetration Tester” path - continuously honing enumeration, exploitation, and post-exploitation skills.*
-
+  -  Currently 40% through Hack The Box’s Penetration Tester path, gaining hands on experience in enumeration, exploitation, and post exploitation techniques. Applied knowledge to assess and secure network vulnerabilities.
+  -  **Tech Stack:** Kali Linux, Metasploit, Wireshark, Nmap.
 ---
 
 ### 🏆 Certifications
