@@ -97,8 +97,15 @@
 - Bash scripting
 
 ---
+<h3>📬 Let's Connect!</h3>
+<p>
+  I'm always open to discussing networking, automation, and security. Feel free to check out my work or reach out:
+</p>
 
-
+<ul>
+  <li>🔗 <a href="https://github.com/NetEngSam" target="_blank">GitHub</a></li>
+  <li>✉️ <a href="mailto:sammyarif@protonmail.com">Email</a></li>
+  <li>💼 <a href="#">LinkedIn</a></li> 
 
 
 <br/>
