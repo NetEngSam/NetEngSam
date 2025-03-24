@@ -29,8 +29,7 @@
 
 - **Hybrid Cloud Network with AWS**
 
-  - Designed and implemented a secure hybrid cloud network by connecting an on-premises Cisco environment (CML) to an AWS VPC over an IPsec VPN. Configured security groups, route tables, and firewall rules for optimal performance and security.
- &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Hybrid-Cloud-Network-with-AWS)
+  - Designed and implemented a secure hybrid cloud network by connecting an on-premises Cisco environment (CML) to an AWS VPC over an IPsec VPN. Configured security groups, route tables, and firewall rules for optimal performance and security. &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Hybrid-Cloud-Network-with-AWS)
   - **Tech Stack:** CML (Cisco CSR Router), AWS VPC, IPsec VPN
 
 - **Multi Protocol Network: OSPF, EIGRP, and BGP**
