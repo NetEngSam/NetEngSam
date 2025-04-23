@@ -92,12 +92,13 @@
 **Cloud & Virtualization**  
 - Microsoft Azure (Azure AD, VMs, NSGs)  
 - Virtualization: VMware, VirtualBox, Hyper-V  
-- Container basics: Docker 
+- Docker 
 
 **Systems & Scripting**  
 - Windows & Linux administration  
 - PowerShell (automation, scripting)  
 - Active Directory (User/Group Management, GPO)  
+- Python scripting 
 - Bash scripting
 
 ---
