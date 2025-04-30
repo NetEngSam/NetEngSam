@@ -57,6 +57,7 @@
 - **CompTIA Security+**
 -  **CompTIA Cloud+**
 -  **LPI Linux Essentials**
+-  **CompTIA Secure Cloud Professional**
 -  **ITIL v4**
 -  **CompTIA A+**
 
