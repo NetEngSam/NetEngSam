@@ -109,9 +109,9 @@
 </p>
 
 <ul>
-  <li>🔗 <a href="https://github.com/NetEngSam" target="_blank">GitHub</a></li>
+ 
   <li>✉️ <a href="mailto:sammyarif@protonmail.com">Email</a></li>
-  <li>💼 <a href="#">LinkedIn</a></li> 
+  <li>💼 <a href="www.linkedin.com/in/samarif">LinkedIn</a></li> 
 
 
 <br/>
