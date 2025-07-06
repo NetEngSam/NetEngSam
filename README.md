@@ -111,7 +111,8 @@
 <ul>
  
   <li>✉️ <a href="mailto:sammyarif@protonmail.com">Email</a></li>
-  <li>💼 <a href="www.linkedin.com/in/samarif">LinkedIn</a></li> 
+  <li>💼 <a href="https://www.linkedin.com/in/samarif">LinkedIn</a></li>
+ 
 
 
 <br/>
