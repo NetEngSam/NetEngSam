@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Projects
+### 🛠️ Labs
 
 - **Network Automation with Python & Ansible**  
 
@@ -42,11 +42,7 @@
   -  Configured and troubleshooted route redistribution between OSPF, EIGRP, and BGP in a multi-protocol lab environment. Ensured seamless communication between different routing domains, improving interoperability.
       &nbsp;&nbsp;[View Repository](https://github.com/NetEngSam/Multi-Protocol-Network-OSPF-EIGRP-and-BGP)
   - **Tech Stack:** Cisco routers, Routing protocols (OSPF, EIGRP, BGP)
-
-- **Ethical Hacking Exercises (Hack The Box)**   
-
-  -  Currently 40% through Hack The Box’s Penetration Tester path, gaining hands on experience in enumeration, exploitation, and post exploitation techniques. Applied knowledge to assess and secure network vulnerabilities.
-  -  **Tech Stack:** Kali Linux, Metasploit, Wireshark, Nmap.
+  
 ---
 
 ### 🏆 Certifications
