@@ -3,7 +3,7 @@
 
 <p>
   <em>
-    Cisco certified Network Engineer with a passion for 
+    Network Engineer with a passion for 
     creating reliable, secure, and automated networks. Always learning.
   </em>
 </p>
