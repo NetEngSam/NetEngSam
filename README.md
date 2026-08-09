@@ -52,7 +52,6 @@ B.S. in Network Engineering &amp; Security
 CCNA · CCNA Automation ·CCNA Security · CompTIA Security+ · Cloud+ ·
 Secure Cloud Professional · A+ · LPI Linux Essentials · ITIL v4 · Arista Campus Wired Engineering Specialist
 
-In progress: CCIE Enterprise Infrastructure
 
 ---
 
